@@ -1,1 +1,1 @@
-print("Hello world from VS test")
+print("Hello world from VS")
